@@ -1,9 +1,9 @@
 using Nancy;
 using System.Collections.Generic;
-using Namespace.Objects;
+using Date.Objects;
 
 
-namespace Namespace
+namespace Date
 {
     public class HomeModule : NancyModule
     {
